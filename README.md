@@ -14,7 +14,7 @@ Nowadays I develop REST APIs, personal use libraries, model-view-controller and 
 various frameworks and languages.
 
 I am deeply instructed in interfacing and talented at graphic design and art, as well as 3D-modelling skills.
-
+<details>
   <summary><h2>🛠️ Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
